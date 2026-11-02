@@ -1,0 +1,103 @@
+stat,quantity,about,brand,model,year,origin,mileage,rating,price
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
+Available,1,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001,Mercedes-Benz,W123 280E,1955,United Kingdom,104 338 km,3 star,228 511
+Reserved,0,https://webscraper.io/test-sites/product/bmw-e24-635csi-1954-c002,BMW,E24 635CSi,1954,Germany,189 886 km,3 star,18 457
+Reserved,0,https://webscraper.io/test-sites/product/jaguar-xj6-1983-c003,Jaguar,XJ6,1983,Germany,119 395 km,2 star,268 210
+Sold,0,https://webscraper.io/test-sites/product/nissan-300zx-z31-1966-c004,Nissan,300ZX Z31,1966,Japan,134 738 km,3 star,104 195
+Reserved,0,https://webscraper.io/test-sites/product/ferrari-f40-1984-c005,Ferrari,F40,1984,Italy,141 828 km,1 star,277 672
+Reserved,0,https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1972-c006,Mercedes-Benz,W123 280E,1972,Germany,31 412 km,4 star,157 569
