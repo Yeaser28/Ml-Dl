@@ -1,0 +1,85 @@
+sl_no,team,spent(Cr),bought,overseas,remaining(Cr),player,foreigner,status,role,capped,price(Cr)
+1,Delhi Capitals,15.0,11.0,6.0,0.0,Marizanne Kapp,Yes,Retained,Batter,Yes,2.2
+2,,,,,,Jemimah Rodrigues,No,Retained,Batter,Yes,2.2
+3,,,,,,Annabel Sutherland,Yes,Retained,All-Rounder,Yes,2.2
+4,,,,,,Shafali Verma,No,Retained,Batter,Yes,2.2
+5,,,,,,Chinelle Henry,Yes,New,Batter,Yes,1.3
+6,,,,,,Nallapureddy Sree Charani,No,New,All-Rounder,Yes,1.3
+7,,,,,,Laura Wolvaardt,Yes,New,Batter,Yes,1.1
+8,,,,,,Niki Prasad,No,Retained,Batter,Yes,0.5
+9,,,,,,Sneh Rana,No,New,All-Rounder,Yes,0.5
+10,,,,,,Minnu Mani,No,New,Bowler,Yes,0.4
+11,,,,,,Taniyaa Bhatia,No,New,Wicketkeeper,Yes,0.3
+12,,,,,,Lizelle Lee,Yes,New,Batter,Yes,0.3
+13,,,,,,Nandni Sharma,No,New,Bowler,Yes,0.2
+14,,,,,,Lucy Hamilton,Yes,New,Bowler,Yes,0.1
+15,,,,,,Mamatha Madiwala,No,New,Wicketkeeper,No,0.1
+16,,,,,,Deeya Yadav,No,New,Batter,No,0.1
+1,Gujarat Giants,14.85,16.0,6.0,0.15,Ashleigh Gardner,Yes,Retained,Batter,Yes,3.5
+2,,,,,,Beth Mooney,Yes,Retained,Wicketkeeper,Yes,2.5
+3,,,,,,Sophie Devine,Yes,New,All-Rounder,Yes,2.0
+4,,,,,,Georgia Wareham,Yes,New,Batter,Yes,1.0
+5,,,,,,Bharati Fulmali,No,New,Batter,Yes,0.7
+6,,,,,,Kashvee Gautam,No,New,Bowler,Yes,0.65
+7,,,,,,Renuka Singh,No,New,Bowler,Yes,0.6
+8,,,,,,Yastika Bhatia,No,New,Wicketkeeper,Yes,0.5
+9,,,,,,Kimberley Garth,Yes,New,All-Rounder,Yes,0.5
+10,,,,,,Danielle Wyatt-Hodge,Yes,New,Batter,Yes,0.5
+11,,,,,,Tanuja Kanwer,No,New,All-Rounder,Yes,0.45
+12,,,,,,Anushka Sharma,No,New,Batter,Yes,0.45
+13,,,,,,Rajeshwari Gayakwad,No,New,Bowler,Yes,0.4
+14,,,,,,Kanika Ahuja,No,New,Batter,Yes,0.3
+15,,,,,,Titas Sadhu,No,New,Bowler,Yes,0.3
+16,,,,,,Ayushi Soni,No,New,Batter,Yes,0.3
+17,,,,,,Happy Kumari,No,New,Bowler,No,0.1
+18,,,,,,Shivani Singh,No,New,Wicketkeeper,No,0.1
+1,Mumbai Indians,15.0,11.0,6.0,0.0,Nat Sciver-Brunt,Yes,Retained,All-Rounder,Yes,3.5
+2,,,,,,Amelia Kerr,Yes,New,All-Rounder,Yes,3.0
+3,,,,,,Harmanpreet Kaur,No,Retained,Batter,Yes,2.5
+4,,,,,,Hayley Matthews,Yes,Retained,All-Rounder,Yes,1.75
+5,,,,,,Amanjot Kaur,No,Retained,All-Rounder,Yes,1.0
+6,,,,,,Sajana S,No,New,All-Rounder,Yes,0.75
+7,,,,,,Shabnim Ismail,Yes,New,Bowler,Yes,0.6
+8,,,,,,Kamalini Gunalan,No,Retained,Wicketkeeper,No,0.5
+9,,,,,,Nicola Carey,Yes,New,Batter,Yes,0.3
+10,,,,,,Saika Ishaque,No,New,Bowler,Yes,0.3
+11,,,,,,Sanskriti Gupta,No,New,Bowler,No,0.2
+12,,,,,,Triveni Vasistha,No,New,Bowler,No,0.2
+13,,,,,,Rahila Firdous,No,New,Wicketkeeper,No,0.1
+14,,,,,,Milly Illingworth,Yes,New,All-Rounder,No,0.1
+15,,,,,,Poonam Khemnar,No,New,All-Rounder,No,0.1
+16,,,,,,Nalla Reddy,No,New,All-Rounder,No,0.1
+1,Royal Challengers Bengaluru,15.0,12.0,6.0,0.0,Smriti Mandhana,No,Retained,Batter,Yes,3.5
+2,,,,,,Richa Ghosh,No,Retained,Wicketkeeper,Yes,2.75
+3,,,,,,Ellyse Perry,Yes,Retained,All-Rounder,Yes,2.0
+4,,,,,,Lauren Bell,Yes,New,Bowler,Yes,0.9
+5,,,,,,Pooja Vastrakar,No,New,Batter,Yes,0.85
+6,,,,,,Grace Harris,Yes,New,All-Rounder,Yes,0.75
+7,,,,,,Arundhati Reddy,No,New,Bowler,Yes,0.75
+8,,,,,,Nadine de Klerk,Yes,New,All-Rounder,Yes,0.65
+9,,,,,,Radha Yadav,No,New,Bowler,Yes,0.65
+10,,,,,,Shreyanka Patil,No,Retained,Bowler,Yes,0.6
+11,,,,,,Georgia Voll,Yes,New,Batter,Yes,0.6
+12,,,,,,D Hemalatha,No,New,All-Rounder,Yes,0.3
+13,,,,,,Linsey Smith,Yes,New,Bowler,Yes,0.3
+14,,,,,,Prema Rawat,No,New,Bowler,Yes,0.2
+15,,,,,,Gautami Naik,No,New,Batter,No,0.1
+16,,,,,,Kumar Prathyoosha,No,New,Wicketkeeper,No,0.1
+1,UP Warriorz,14.85,17.0,6.0,0.15,Deepti Sharma,No,New,All-Rounder,Yes,3.2
+2,,,,,,Shikha Pandey,No,New,Bowler,Yes,2.4
+3,,,,,,Meg Lanning,Yes,New,Batter,Yes,1.9
+4,,,,,,Phoebe Litchfield,Yes,New,Batter,Yes,1.2
+5,,,,,,Asha Sobhana,No,New,Bowler,Yes,1.1
+6,,,,,,Sophie Ecclestone,Yes,New,Bowler,Yes,0.85
+7,,,,,,Deandra Dottin,Yes,New,Batter,Yes,0.8
+8,,,,,,Kiran Navgire,No,New,Batter,Yes,0.6
+9,,,,,,Harleen Deol,No,New,Batter,Yes,0.5
+10,,,,,,Kranti Goud,No,New,All-Rounder,Yes,0.5
+11,,,,,,Pratika Rawal,No,New,Batter,Yes,0.5
+12,,,,,,Shweta Sehrawat,No,Retained,Batter,No,0.5
+13,,,,,,Chloe Tryon,Yes,New,All-Rounder,Yes,0.3
+14,,,,,,Shipra Giri,No,New,Wicketkeeper,No,0.1
+15,,,,,,Suman Meena,No,New,All-Rounder,No,0.1
+16,,,,,,Tara Norris,Yes,New,Bowler,Yes,0.1
+17,,,,,,Simran Shaikh,No,New,Batter,No,0.1
+18,,,,,,G Trisha,No,New,All-Rounder,No,0.1
